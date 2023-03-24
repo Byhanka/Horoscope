@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin-top: 10%;
+    background: url(../images/outer-space.jpeg );
+    font-family: "righteous", "lobster", "sans-serif";
+}
+button {
+    margin-top: 3%;
+    padding: 1% 5% 1% 5%;
+}
+input{
+    padding: 1% 1% 1% 1%;
+}
+h1{
+    color: rgb(236, 104, 222);
+    font-size: 50px;
+    background-color: rgba(237, 237, 237, 0.732);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h2{
+    margin-top: 3%;
+    color: rgb(222, 233, 104);
+    font-size:69px;
+}
+p{
+    color: white;
+    padding-left:10%;
+    padding-right: 10%;
+    background-color:rgba(23, 23, 22, 0.75);
+    margin-left: 10%;
+    margin-right: 10%;
+}
